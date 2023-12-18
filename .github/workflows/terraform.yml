@@ -1,4 +1,4 @@
-name: "Terraform_github"
+name: "Terraform_Github"
 
 on:
   push:
