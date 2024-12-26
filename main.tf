@@ -13,11 +13,4 @@ terraform {
 }
 
 
-provider "aws" {
-  region = "us-east-1"
-  profile = "default"
-}
-
-
-resource "random_pet" "sg" {}
 
