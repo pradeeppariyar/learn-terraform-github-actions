@@ -19,6 +19,5 @@ provider "aws" {
 }
 
 
-
 resource "random_pet" "sg" {}
 
